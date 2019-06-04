@@ -1,1 +1,1 @@
-src/main/java/Cat.java
+src/main/java/my.cute.Cat.java
