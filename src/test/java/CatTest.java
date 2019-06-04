@@ -1,4 +1,3 @@
-import my.cute.Cat;
 import org.junit.jupiter.api.Test;
 
 class CatTest {
